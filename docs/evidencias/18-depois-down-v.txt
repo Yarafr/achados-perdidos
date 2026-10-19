@@ -1,0 +1,7 @@
+﻿2026-10-19 19:20:57
+{"banco":"conectado","container":"e0e76d25bcba","status":"ok"}
+{"fotos_no_volume":0,"itens_no_banco":3}
+[{"criado_em":"2026-10-19T22:20:51.510843","descricao":"Garrafa termica azul","foto":null,"id":1,"local":"Biblioteca"},{"criado_em":"2026-10-19T22:20:51.510843","descricao":"Carregador de notebook USB-C","foto":null,"id":2,"local":"Laboratorio 3"},{"criado_em":"2026-10-19T22:20:51.510843","descricao":"Casaco preto com capuz","foto":null,"id":3,"local":"Cantina"}]
+total 0
+705daa2f95890f850e9802b7f0cb37f838d5fc7532102d871409d719d1461c84
+e0e76d25bcba73e57f4b6cfce87efbb7e7244d97038914e1d516b4b9f2287231

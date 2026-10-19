@@ -1,0 +1,9 @@
+﻿2026-10-19 19:18:12
+{"banco":"conectado","container":"eab6f31a672a","status":"ok"}
+{"fotos_no_volume":2,"itens_no_banco":5}
+[{"criado_em":"2026-10-19T21:13:53.823300","descricao":"Garrafa verde","foto":"/fotos/6194647f5f7c45f3a279bb354575ffdf.jpg","id":5,"local":"Cantina"},{"criado_em":"2026-10-19T21:08:11.098525","descricao":"Oculos de grau","foto":"/fotos/c86adca0e49148b2ad06de6d0b745de8.jpg","id":4,"local":"Bloco B"},{"criado_em":"2026-10-19T20:52:29.038117","descricao":"Garrafa termica azul","foto":null,"id":1,"local":"Biblioteca"},{"criado_em":"2026-10-19T20:52:29.038117","descricao":"Carregador de notebook USB-C","foto":null,"id":2,"local":"Laboratorio 3"},{"criado_em":"2026-10-19T20:52:29.038117","descricao":"Casaco preto com capuz","foto":null,"id":3,"local":"Cantina"}]
+total 92
+-rw-r--r-- 1 appuser appuser  5825 Oct 19 21:13 6194647f5f7c45f3a279bb354575ffdf.jpg
+-rw-r--r-- 1 appuser appuser 85322 Oct 19 21:08 c86adca0e49148b2ad06de6d0b745de8.jpg
+83ee1e91da579386f407529ffd1a28863feddff745cb9e00fe930decf4ac6fb6
+eab6f31a672a1bb7bbde8c0f9d152534e2a5d1f29af684bd3f5dc46f62831132

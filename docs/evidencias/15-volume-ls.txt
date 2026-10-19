@@ -1,0 +1,9 @@
+﻿DRIVER    VOLUME NAME
+local     7da9caf9598368d9cd95029d6874ab42224fc27858a8ae686ae719c2eea29d33
+local     achados-perdidos_dados_banco
+local     achados-perdidos_fotos
+local     loja-docker_dados-banco
+local     loja-docker_dados-objetos
+local     meu_projeto_docker_media_data
+local     meu_projeto_docker_postgres_data
+local     meu_projeto_docker_static_data
